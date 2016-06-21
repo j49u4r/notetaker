@@ -1,0 +1,21 @@
+{
+  "name": "notetaker",
+  "version": "0.0.0",
+  "description": "A basic app using React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/j49u4r/notetaker"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Augusto Alonso de la Cruz Jiménez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j49u4r/notetaker/issues"
+  }
+}
